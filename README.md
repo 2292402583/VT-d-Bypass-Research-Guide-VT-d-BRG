@@ -10,13 +10,13 @@ This document is provided for educational and research purposes only. The inform
 
 
 项目概述 / Project Overview
+
 技术背景 / Technical Background
 VT-d（Intel Virtualization Technology for Directed I/O）是Intel硬件辅助虚拟化技术的重要组成部分，用于管理DMA访问和IOMMU功能。本项目基于EDK2和Project Mu的Intel硅包进行安全性研究。
 主要目标 / Primary Objectives
-分析VT-d实现的安全机制
-探索潜在的安全漏洞和攻击面
-开发安全增强方案
-促进硬件安全研究社区发展
+分析VT-d实现的安全机制,探索潜在的安全漏洞和攻击面,开发安全增强方案,促进硬件安全研究社区发展.
+
+
 开发环境搭建 / Development Environment Setup
 系统要求 / System Requirements
 Ubuntu 22.04/24.04 LTS（推荐）
