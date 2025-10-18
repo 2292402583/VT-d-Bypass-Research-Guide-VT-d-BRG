@@ -9,6 +9,7 @@ This document is provided for educational and research purposes only. The inform
 本文档仅用于教育和研究目的。文档内容旨在帮助安全研究人员、固件开发者和网络安全专业人员更好地理解VT-d技术及其安全影响。任何对固件的修改都存在重大风险，包括设备变砖、系统不稳定和安全漏洞。文档作者对使用此信息造成的任何损害不承担责任。用户在进行任何安全测试前必须确保获得适当授权，并遵守所有适用的法律法规。
 
 项目概述 / Project Overview
+<img width="566" height="292" alt="捕获11" src="https://github.com/user-attachments/assets/d342efe8-49cb-4183-8d93-ef333ff44751" />
 
 技术背景 / Technical Background
 
