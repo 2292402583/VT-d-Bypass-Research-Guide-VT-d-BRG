@@ -71,6 +71,11 @@ pip install -r mu_silicon_intel_tiano/pip-requirements.txt
 build -p IntelSiliconPkg/IntelSiliconPkg.dsc -t GCC5 -a X64 -b RELEASE
 
 
+对相关代码进行修改测试
+![Uploading 捕获5.PNG…]()
+
+
+
 如果编译完成将会出现
 <img width="860" height="675" alt="捕获2" src="https://github.com/user-attachments/assets/629f9312-bb3a-413c-9c96-f9b0f61a686d" />
 <img width="1179" height="834" alt="捕获" src="https://github.com/user-attachments/assets/3918bec6-1548-40eb-9308-5d66c91820d7" />
