@@ -84,6 +84,14 @@ build -p IntelSiliconPkg/IntelSiliconPkg.dsc -t GCC5 -a X64 -b RELEASE
 
 使用UFEITOOL 以及较旧版本 UFEITOOL 0.28.0对VTDDXE模块导出，再使用HDE分析编辑整合后使用CH341刷入ROM开机测试
 
+
+
+如何整合 .EFI 到 .FFS
+<img width="879" height="579" alt="捕获9" src="https://github.com/user-attachments/assets/ec5ddc6f-7103-4dcc-b665-fe32658e075c" />
+<img width="926" height="695" alt="捕获97" src="https://github.com/user-attachments/assets/25f89426-a6b1-44e3-b5b6-719f479c593d" />
+
+
+
 相关项目地址 / Related Project URLs
 
 • EDK2主仓库: https://github.com/tianocore/edk2
